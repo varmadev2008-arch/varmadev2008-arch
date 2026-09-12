@@ -10,7 +10,7 @@ I believe in **learning by building** — turning what I learn into real project
 
 ## 🚀 What I'm Learning
 
-- 💻 C++ & Python
+- 💻 C++ ,C, Python
 - 🧠 Data Structures & Algorithms
 - 🌐 Web Development
 - 🔧 Git & GitHub
