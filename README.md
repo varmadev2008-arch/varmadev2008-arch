@@ -68,20 +68,6 @@ My long-term interests include:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=varmadev2008arch&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varmadev2008arch&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=varmadev2008arch&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🎯 Goals
 
